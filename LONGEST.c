@@ -29,6 +29,7 @@ int main()
     char longest[maxlength];
     int len,max,i;
     i=0;
+    max = 0;
     while((len = getlength(line,maxlength))> 0){
         if(len > max){
             max = len;

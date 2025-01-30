@@ -1,5 +1,4 @@
-/* getint: get next integer from input to *pn.
- * Free form input conversion routine */
+
 
 #include<stdio.h>
 #include<ctype.h>

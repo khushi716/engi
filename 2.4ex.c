@@ -18,7 +18,7 @@ int main()
     char str4[maxlimit];
     
     strcpy(str1,"khushi");
-    strcpy(str2,"hurte");
+    strcpy(str2,"khurte");
     int i,in,min;
     in = i = 0;
    

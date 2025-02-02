@@ -110,7 +110,7 @@ int atio(char *s){
        ;
    }
     sign =(*s == '-') ? -1:1;
-    if(*s == '+' && *s == '-'){
+    if(*s == '+'|| *s == '-'){
         s++;
     }
     for(n=0;isdigit(*s);s++){
